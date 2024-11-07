@@ -155,4 +155,4 @@ new Gerador(danfe).gerarPDF({
 
 ### Projeto Relacionado
 
-[webdanfe](https://github.com/renatoargh/webdanfe) - Gerador de DANFE em pdf utilizando a API do Webdanfe
+ - Gerador de DANFE em pdf utilizando a API do Webdanfe
